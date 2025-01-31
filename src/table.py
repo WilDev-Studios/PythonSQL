@@ -143,7 +143,7 @@ class Table(Generic[T_Schema]):
         
         Parameters
         ----------
-        values : dict[str, Any]`
+        values : `dict[str, Any]`
             The 'column: new_value' pairs
         filters : `Any`
             The keyword-arguments for selecting specific columns and a row with a matching value
