@@ -9,7 +9,7 @@ This is the official documentation page for the `PythonSQL` module
 
 ## Getting Started
 ### Installation
-- PyPI: `pip install pythonsql`
+- PyPI: `pip install wildev-pysql`
 
 ### Basic Objects
 - `Database`: Handles each database file. One for each `database1.db`, `database2.db`, etc.
